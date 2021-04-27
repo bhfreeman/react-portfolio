@@ -1,0 +1,11 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.card {
+    width: 30rem;
+}
+
+h1 {
+    font-size: 5em;
+}

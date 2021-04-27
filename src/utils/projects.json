@@ -1,0 +1,44 @@
+[
+    {
+        "img": "/assets/images/react-employee-directory.png",
+        "name": "React Employee Directory",
+        "description": "A React front-end that consumes the randomuser.me API and displays that data as an employee directory ",
+        "github": "https://github.com/bhfreeman/react-employee-directory",
+        "deployed": "https://epic-lamport-dceeea.netlify.app"
+    },
+    {
+        "img": "/assets/images/bathroom-buddy.png",
+        "name": "Bathroom Buddy",
+        "description": "A user driven bathroom rating app. Users can add bathrooms, rate them, leave comments, etc.",
+        "github": "https://github.com/bhfreeman/restroom-tracker",
+        "deployed": "https://bathroom-buddy-v1.herokuapp.com"
+    },
+    {
+        "img": "/assets/images/weather-app.png",
+        "name": "Weather App",
+        "description": "Simple vanilla JavaScript,HTML, CSS front-end that displays weather based on user search. Uses the Openweather API.",
+        "github": "https://github.com/bhfreeman/weather-app",
+        "deployed": "https://bhfreeman.github.io/weather-app/"
+    },
+    {
+        "img": "/assets/images/note-taker.png",
+        "name": "Note Taker App",
+        "description": "A simple app to take notes. Each note has a title and text. You can save note, delete old saved notes, and with future functionality, update notes. Each note has a unique id behind the scenes.",
+        "github": "https://github.com/bhfreeman/note-taker-app-express",
+        "deployed": "https://github.com/bhfreeman/note-taker-app-express"
+    },
+    {
+        "img": "/assets/images/workout-tracker.png",
+        "name": "Workout Tracker",
+        "description": "App to enter in all your exercises and save them as a workout. Track weight lifted, distance ran, etc over last seven days.",
+        "github": "https://github.com/bhfreeman/workout-tracker",
+        "deployed": ""
+    },
+    {
+        "img": "/assets/images/workout-tracker.png",
+        "name": "project 3",
+        "description": "tbd",
+        "github": "https://github.com/bhfreeman",
+        "deployed": "https://www.google.com/?client=safari"
+    }
+]
