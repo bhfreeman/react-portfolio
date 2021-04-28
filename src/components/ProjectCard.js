@@ -3,7 +3,7 @@ import React from 'react'
 
 function ProjectCard({img, name, description, github, deployed}) {
     return (
-        <div className="card text-center m-3">
+        <div className="card text-center m-3 p-0">
             <div className="card-header bg-dark text-white mb-1">{name}</div>
             <img src={img} className="card-img-top" alt={name} />
             <div className="card-body">

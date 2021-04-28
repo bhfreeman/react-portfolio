@@ -9,3 +9,34 @@ body {
 h1 {
     font-size: 5em;
 }
+h2{
+    font-size: 4em;
+}
+
+i{
+    color: black;
+}
+
+.bg-color{
+    background-color: #40121E;
+}
+.text-color{
+    color: #403D3C;  
+}
+.link-text{
+    color: #D7D7D9;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+}
+.left-space{
+    margin-left: .75em;
+}
+
+.old-profile{
+    height: 250px;
+}
+.new-profile{
+    height:300px;
+    border-radius: 100em;
+}
