@@ -29,6 +29,7 @@ function Navbar() {
                 className="link-text"
                 href="Assets/BrettFreemanresume.pdf"
                 target="_blank"
+                rel="noreferrer"
                 download
               >
                 Resume
