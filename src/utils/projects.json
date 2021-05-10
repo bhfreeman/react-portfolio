@@ -1,5 +1,12 @@
 [
     {
+        "img": "/assets/images/repotted.png",
+        "name": "Re: Potted",
+        "description": "A place where plant lovers can buy plants from other people in their area as well as sell their own plants. Users are given the ability to create an account, create postings of the plant they wish to sell as well as browse, filter, and search other plants that are available for purchase.",
+        "github": "https://github.com/bhfreeman/plant-marketplace",
+        "deployed": "https://repotted.herokuapp.com"
+    },
+    {
         "img": "/assets/images/react-employee-directory.png",
         "name": "React Employee Directory",
         "description": "A React front-end that consumes the randomuser.me API and displays that data as an employee directory ",
@@ -33,12 +40,5 @@
         "description": "App to enter in all your exercises and save them as a workout. Track weight lifted, distance ran, etc over last seven days.",
         "github": "https://github.com/bhfreeman/workout-tracker",
         "deployed": ""
-    },
-    {
-        "img": "/assets/images/workout-tracker.png",
-        "name": "project 3",
-        "description": "tbd",
-        "github": "https://github.com/bhfreeman",
-        "deployed": "https://www.google.com/?client=safari"
     }
 ]

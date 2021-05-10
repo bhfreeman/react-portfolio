@@ -22,6 +22,14 @@ function About() {
           professional life I enjoy spending time in the outdoors, reading,
           playing video games, and spending time with my pets.
         </p>
+        <div>
+        <h3>
+          <strong className="text-color">Skills</strong>
+        </h3>
+          <p>
+            HTML        CSS             JavaScript             Node.js             React.js             Express.js             Git             MySQL             MongoDB             REST/RESTful API
+          </p>
+        </div>
       </div>
       <div className="col-12">
         <a href="https://github.com/bhfreeman" 

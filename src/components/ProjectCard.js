@@ -9,7 +9,8 @@ function ProjectCard({img, name, description, github, deployed}) {
             <div className="card-body">
                 <p className="card-text">{description}</p>
                 <a href={github} target="_blank" className="btn">GitHub Repo</a>
-                <a href={deployed} target="_blank" className="btn">Deployed Link</a>
+                {deployed && <a href={deployed} target="_blank" className="btn">Deployed Link</a> }
+                
             </div>
         </div>
     )
