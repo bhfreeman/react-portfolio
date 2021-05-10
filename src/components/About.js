@@ -24,12 +24,14 @@ function About() {
         </p>
       </div>
       <div className="col-12">
-        <a href="https://github.com/bhfreeman">
+        <a href="https://github.com/bhfreeman" 
+        target="_blank">
           <i className="fab fa-github-square fa-2x"></i>
         </a>
         <a
           className="left-space"
           href="https://www.linkedin.com/in/brett-freeman-41826b206/"
+          target="_blank"
         >
           <i className="fab fa-linkedin fa-2x"></i>
         </a>
