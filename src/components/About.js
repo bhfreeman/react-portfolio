@@ -10,7 +10,7 @@ function About() {
       </div>
       <div className="col-12 my-2">
         <h4>
-          Mesa, AZ <span className="left-space">(480)322-7352 </span>{" "}
+          Mesa, AZ <span className="left-space">(480) 322-7352 </span>{" "}
           <span className="left-space">brett.h.freeman@gmail.com </span>{" "}
         </h4>
       </div>
@@ -34,7 +34,7 @@ function About() {
       <div className="col-12">
         <a href="https://github.com/bhfreeman" 
         target="_blank" rel="noreferrer">
-          <i className="fab fa-github-square fa-2x"></i>
+          <i className="fab fa-github-square fa-3x"></i>
         </a>
         <a
           className="left-space"
@@ -42,7 +42,7 @@ function About() {
           target="_blank"
           rel="noreferrer"
         >
-          <i className="fab fa-linkedin fa-2x"></i>
+          <i className="fab fa-linkedin fa-3x"></i>
         </a>
       </div>
     </div>

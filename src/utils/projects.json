@@ -32,13 +32,6 @@
         "name": "Note Taker App",
         "description": "A simple app to take notes. Each note has a title and text. You can save note, delete old saved notes, and with future functionality, update notes. Each note has a unique id behind the scenes.",
         "github": "https://github.com/bhfreeman/note-taker-app-express",
-        "deployed": "https://github.com/bhfreeman/note-taker-app-express"
-    },
-    {
-        "img": "/assets/images/workout-tracker.png",
-        "name": "Workout Tracker",
-        "description": "App to enter in all your exercises and save them as a workout. Track weight lifted, distance ran, etc over last seven days.",
-        "github": "https://github.com/bhfreeman/workout-tracker",
-        "deployed": ""
+        "deployed": "https://bhf-note-taker.herokuapp.com/"
     }
 ]
